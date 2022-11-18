@@ -2,5 +2,6 @@ streamlit
 pandas
 plotly
 plotly-express
-scikit-learn==0.23.2
+scikit-learn
+numpy
 pycaret
